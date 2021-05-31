@@ -1,7 +1,7 @@
 body
 {
-  color: rgb(9, 255, 0);
-  background: #000205;
+  color: white;
+  background: #c0d3ff;
 }
 span
 {
@@ -31,6 +31,4 @@ span
   font-size: 18px;
   border-radius: 10px;
   letter-spacing: 10px;
-  background-color:rgb(50, 192, 145);
-  color:firebrick;
 }
